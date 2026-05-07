@@ -4,6 +4,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 This project demonstrates how to build, test, and deploy a Docker container to **GitHub Container Registry (GHCR)** using **GitHub Actions**.
